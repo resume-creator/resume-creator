@@ -1,0 +1,5 @@
+{
+  "*.{ts,tsx}": ["prettier -w", "eslint --max-warnings=0 --fix"],
+  "package.json": ["sort-package-json"],
+  ".*.json": ["prettier -w"]
+}
