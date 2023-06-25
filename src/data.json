@@ -1,0 +1,154 @@
+{
+  "sections": [
+    {
+      "type": "IntroSection",
+      "title": "Contact",
+      "props": {
+        "name": "Bezos Gates Jobs Zuckerberg",
+        "email": "bezos.gates.jobs.zuckerberg@email.com",
+        "phone": "+1-234-567-8900"
+      }
+    },
+    {
+      "type": "GenericSection",
+      "title": "Education",
+      "props": {
+        "items": [
+          {
+            "entity": {
+              "name": "Harvard University",
+              "link": "https://www.hbs.edu/"
+            },
+            "duration": "09/2015 - 09/2017",
+            "location": "Boston, MA, USA",
+            "title": "Master of Business Administration"
+          },
+          {
+            "entity": {
+              "name": "Massachusetts Institute of Technology",
+              "link": "https://www.mit.edu/"
+            },
+            "duration": "09/2006 - 09/2009",
+            "location": "Cambridge, MA, USA",
+            "title": "Ph.D. in Big Data and Distributed System."
+          },
+          {
+            "entity": {
+              "name": "Stanford University",
+              "link": "https://www.stanford.edu/"
+            },
+            "duration": "09/2004 - 09/2006",
+            "location": "Stanford, CA, USA",
+            "title": "Master of Science in Computer Science. GPA: 4.0/4.0"
+          },
+          {
+            "entity": {
+              "name": "University of California, Berkeley",
+              "link": "https://www.berkeley.edu/"
+            },
+            "duration": "09/2000 - 09/2004",
+            "location": "Berkeley, CA, USA",
+            "title": "Bachelor of Science in Math. GPA: 4.0/4.0"
+          }
+        ]
+      }
+    },
+    {
+      "type": "GenericSection",
+      "title": "Employment",
+      "props": {
+        "items": [
+          {
+            "entity": {
+              "name": "Unicorn Startup"
+            },
+            "duration": "09/2021 - Present",
+            "location": "Santa Clara, CA, USA",
+            "title": "Co-founder & Chief Technology Officer",
+            "details": [
+              "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+              "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+              "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+              "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+            ]
+          },
+          {
+            "entity": {
+              "name": "Amazon",
+              "link": "https://www.aboutamazon.com/"
+            },
+            "duration": "09/2019 - 09/2021",
+            "location": "Seattle, Washington, USA",
+            "title": "Head of Techonology",
+            "details": [
+              "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+              "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+              "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+              "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+            ]
+          },
+          {
+            "entity": {
+              "name": "Meta",
+              "link": "https://about.meta.com/"
+            },
+            "duration": "09/2017 - 09/2019",
+            "location": "Menlo Park, CA, USA",
+            "title": "Senior Software Engineering Manager",
+            "details": [
+              "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+              "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+              "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+              "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+            ]
+          },
+          {
+            "entity": {
+              "name": "Apple",
+              "link": "https://www.apple.com/contact/"
+            },
+            "duration": "09/2013 - 09/2015",
+            "location": "Cupertino, CA, USA",
+            "title": "Software Engineering Manager",
+            "details": [
+              "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+              "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+              "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+              "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+            ]
+          },
+          {
+            "entity": {
+              "name": "Google",
+              "link": "https://about.google/"
+            },
+            "duration": "09/2011 - 09/2013",
+            "location": "Mountain View, CA, USA",
+            "title": "Senior Software Engineer",
+            "details": [
+              "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+              "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+              "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+              "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+            ]
+          },
+          {
+            "entity": {
+              "name": "Microsoft",
+              "link": "https://www.microsoft.com/en-us/about"
+            },
+            "duration": "09/2009 - 09/2011",
+            "location": "Redmond, Washington, USA",
+            "title": "Software Engineer",
+            "details": [
+              "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+              "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+              "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+              "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
